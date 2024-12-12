@@ -52,6 +52,14 @@ In this project, I used:
 
 ---
 
+## 🚀 How to Explore
+Check out the Power BI Dashboard:
+[Link to Power BI Dashboard](
+
+Access the Excel Workbook: The processed dataset can be found in the repository.
+
+---
+
 ## 🤵🏽 Professional Skills Used
 #### 🔍 Attention to Detail
   - Ensured accuracy during data cleaning and transformation in R.
