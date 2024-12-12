@@ -16,16 +16,22 @@ In this project, I analyze the **Hollywood's Most Profitable Stories Dataset** t
 
 1. **Data Exploration and Cleaning in R** 💻:
    - The raw Hollywood dataset is explored and cleaned using **R** to handle missing data, filter relevant information, and prepare it for analysis.
-   - The dataset includes various movie details such as budget, genre, production company, and box office revenue.
+   - The dataset includes various movie details such as genre, studio, ratings and box office revenue.
+![image](https://github.com/user-attachments/assets/87a2c9ca-ddf2-465e-8ffb-9a348e22a64c)
+
 
 2. **Power BI Visualizations** 📊:
-   - **Top 10 Most Profitable Movies**: A breakdown of the highest-grossing movies relative to their production budgets.
-   - **Genre vs Profitability**: Analyzing how different movie genres perform in terms of profitability.
-   - **Budget vs Box Office Revenue**: Visualizing the relationship between movie budgets and box office earnings.
+   - **Average rating by Genre**: Analyzing how different movie genres perform in terms of average rating.
+   - **Number of Films relaease each Year**: Visualising how many films were released in each year of the dataset.
+   - **Audience Score by Film**: Visualising the top rated films based on audience scores.
    - **Studio vs Profitability**: Identifying which production companies produce the most profitable films.
+   - **Genre vs Profitability**: Identifying which film genres were the most profitable.
 
 3. **Power BI Dashboard** 🌟:
    - An interactive dashboard combining all the visualizations, providing a comprehensive view of Hollywood's most profitable stories.
+   - The Project restricted the visuals colour scheme to only include a combination of Blue💙, Green💚 and Brown🤎.
+![image](https://github.com/user-attachments/assets/c420584a-2262-4c29-8089-2bc3085e01e6)
+
 
 ---
 
