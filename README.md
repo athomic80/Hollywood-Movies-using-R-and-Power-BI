@@ -54,9 +54,7 @@ In this project, I used:
 
 ## 🚀 How to Explore
 Check out the Power BI Dashboard:
-[Link to Power BI Dashboard](
-
-Access the Excel Workbook: The processed dataset can be found in the repository.
+[Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTYwNTMyMjAtMTI0Ny00NjllLTllMTUtYjllODVhYjYyMDk4IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9)
 
 ---
 
